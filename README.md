@@ -1,6 +1,9 @@
 # **REAL ESTATE PRICE PREDICTOR**
 A web app that estimates the sale price of a property based on key attributes such as year sold, bedrooms, lot size, and property type.
 
+### STREAMLIT APP LINK:
+https://realestatepriceapp-9bhwnn9xkzcqprwg9qzin4.streamlit.app/
+
 ### OVERVIEW:
 
 Input: Year Sold, Property Tax, Insurance, Bedrooms, Bathrooms, Sqft, Year Built, Lot Size, Basement, Popular, Recession, Property Type (Condo/Bungalow)
